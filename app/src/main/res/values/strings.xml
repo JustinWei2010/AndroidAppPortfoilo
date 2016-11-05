@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="activity_name">My Nanodegree Apps</string>
+    <string name="activity_button1_name">POPULAR MOVIES</string>
+    <string name="activity_button2_name">STOCK HAWK</string>
+    <string name="activity_button3_name">BUILD IT BIGGER</string>
+    <string name="activity_button4_name">MAKE YOUR APP MATERIAL</string>
+    <string name="activity_button5_name">GO UBIQUITOUS</string>
+    <string name="activity_button6_name">CAPSTONE: MY OWN APP</string>
+</resources>
